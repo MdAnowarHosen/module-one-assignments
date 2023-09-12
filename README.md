@@ -23,7 +23,7 @@ Project data below with Grade Results:
 
 
 ##  Even or Odd Checker
-** I've also created  Even or Odd Checker Application. Which will check  Even or Odd for a single number and output it.**
+**I've also created  Even or Odd Checker Application. Which will check  Even or Odd for a single number and output it.**
 
 ## Weather Report
 **Next, I've created Weather Report Application. Application data is given below:**
