@@ -38,11 +38,11 @@
             <strong>
               <p>Result: <span>
                   <?php
-                  echo $result != null ?  "Tha number  is " : ' ';
+                  echo $result != null ?  "Tha number " : ' ';
                   echo $number ?? ' ';
+                  echo $result != null ?  " is " : ' ';
                   echo ' ' . $result;
                   ?>
-
                 </span></p>
             </strong>
             <div class="my-3">

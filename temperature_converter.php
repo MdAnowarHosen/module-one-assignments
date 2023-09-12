@@ -47,7 +47,7 @@
             <strong>
               <p>Output Temperature: <span>
                   <?php
-                  echo $result . " Degree " . $surveyor;
+                  echo $result != null ? $result . " Degree " . $surveyor : '';
                   ?>
                 </span></p>
             </strong>

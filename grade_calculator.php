@@ -11,7 +11,7 @@
 <body>
 
     <?php
-    $result = 0;
+    $result = null;
     if ($_SERVER["REQUEST_METHOD"] == "POST")
     {
         $marks = $_POST['marks'];
