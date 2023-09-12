@@ -8,3 +8,6 @@ Here you can do:
   - Binary Conversion
   - Hexadecimal Conversion
   - Octal Conversion
+
+-----------------------------------
+**More project coming soon!**
