@@ -36,7 +36,7 @@ Project data below with Grade Results:
 | temperature <= 9                             | 	  freezing weather  |
 
 
-## Comparison Tool Application with PHP
+## Comparison Tool
 **It will compare between two number and output the largest number.**
 
 ## Simple Calculator
